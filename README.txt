@@ -12,4 +12,4 @@ QUICK START:
 
 NOTES:
 - The portfolio intentionally avoids exposing patient information or confidential healthcare data.
-- The metrics shown are based on experience details previously provided by Quint.
+- The metrics shown are based on experience details previously provided
